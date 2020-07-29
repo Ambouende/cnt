@@ -1,5 +1,2 @@
-<h1> Hello, Welcome to Simple DevOps Project Aurelie !!   </h1>
-<h2> Data Service Group is your learning partner </h2>
-<h2> Glad to see you here </h2>
-<h1> Good job Aurelie on learning Devops</h1>
 <h1> This is the cnt application deployment</h1>
+<h1> This is to check that our pipeline is automated</h1>
